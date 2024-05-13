@@ -1,0 +1,11 @@
+yarn storybook -p 6006
+
+yarn add styled-component
+yarn add -D @types/styled-components
+
+example
+yarn build 
+
+yarn start 
+yarn install --ignore-engines
+yarn start 
