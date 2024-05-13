@@ -1,3 +1,5 @@
+1 -------------------
+
 yarn storybook -p 6006
 
 yarn add styled-component
@@ -9,3 +11,22 @@ yarn build
 yarn start 
 yarn install --ignore-engines
 yarn start 
+
+2 -------------------
+
+git init
+git remote remove origin
+git remote add origin https://github.com/DenisOliveira1/alurabooks-ds-denis.git
+git push
+git push --set-upstream origin main
+
+//criar conta no npm
+npm login
+npm publish --access-public
+
+//novo projeto para tetsar biblioteca do upload
+npx create-react-app alurabooks-consumer --template typescript
+npm install ds-alurabooks-base-denis
+npm start
+
+3 -------------------
