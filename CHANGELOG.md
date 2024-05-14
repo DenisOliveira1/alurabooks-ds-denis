@@ -1,3 +1,16 @@
+# v0.2.3 (Tue May 14 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Autenticando no yaml ([@DenisOliveira2](https://github.com/DenisOliveira2))
+- Novo teste ([@DenisOliveira2](https://github.com/DenisOliveira2))
+
+#### Authors: 1
+
+- [@DenisOliveira2](https://github.com/DenisOliveira2)
+
+---
+
 # v0.2.2 (Tue May 14 2024)
 
 #### ⚠️ Pushed to `main`
