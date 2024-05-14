@@ -1,3 +1,15 @@
+# v0.2.4 (Tue May 14 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Alterando commands ([@DenisOliveira2](https://github.com/DenisOliveira2))
+
+#### Authors: 1
+
+- [@DenisOliveira2](https://github.com/DenisOliveira2)
+
+---
+
 # v0.2.3 (Tue May 14 2024)
 
 #### ⚠️ Pushed to `main`
