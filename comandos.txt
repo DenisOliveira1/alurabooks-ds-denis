@@ -29,4 +29,7 @@ npx create-react-app alurabooks-consumer --template typescript
 npm install ds-alurabooks-base-denis
 npm start
 
+npm publish --access-public
+https://www.npmjs.com/settings/denisoliveira2/packages
+
 3 -------------------
