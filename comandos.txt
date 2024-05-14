@@ -38,3 +38,5 @@ https://www.npmjs.com/settings/denisoliveira2/packages
 
 yarn add -D auto
 //-D é pra por só pra desenvolvimento no package.json
+
+//tem que ativar permissão de workflow fazer publish
