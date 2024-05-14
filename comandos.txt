@@ -33,3 +33,8 @@ npm publish --access-public
 https://www.npmjs.com/settings/denisoliveira2/packages
 
 3 -------------------
+
+4 -------------------
+
+yarn add -D auto
+//-D é pra por só pra desenvolvimento no package.json
