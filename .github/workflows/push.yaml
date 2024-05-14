@@ -14,7 +14,11 @@ jobs:
     # This check needs to be in place to prevent a publish loop with auto and github actions
     if: "!contains(github.event.head_commit.message, 'ci skip') && !contains(github.event.head_commit.message, 'skip ci')"
     # The list of steps that the action will go through
-    steps:
+    steps:     
+      - name: Set up Git author identity
+        run: |
+          git config --global user.email "denisb.oliveira@live.com"
+          git config --global user.name "Denis Oliveira"
       - uses: actions/checkout@v2
       - name: Prepare repository
         run: git fetch --unshallow --tags
